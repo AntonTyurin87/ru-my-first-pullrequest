@@ -32,5 +32,5 @@ It's me.
 ( ◜‿◝ )♡
 
 Andrey Gulayakin aka andrew-walker91 was here)
-
+мой первый "пулл реквест")
 Thank you, Hexlet, for this course
